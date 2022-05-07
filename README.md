@@ -1,4 +1,4 @@
-Hulk DoS tool
+Hulk DDoS tool
 =============
 
 HULK DoS tool ported to Go language from Python. 
